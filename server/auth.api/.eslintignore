@@ -1,5 +1,0 @@
-src/migrations/*.ts
-node_modules
-coverage
-.vscode
-dist
